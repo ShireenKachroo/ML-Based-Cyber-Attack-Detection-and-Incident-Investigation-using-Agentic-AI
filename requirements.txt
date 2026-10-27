@@ -1,0 +1,18 @@
+# Core Data Handling & ML Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# Graph Processing
+networkx
+
+# LangChain & Agentic AI Framework
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+
+# Utilities
+python-dotenv
+streamlit

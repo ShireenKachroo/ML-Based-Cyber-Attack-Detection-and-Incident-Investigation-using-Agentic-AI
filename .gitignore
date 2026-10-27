@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & API Keys (Security ke liye)
+.env
+
+agent/
