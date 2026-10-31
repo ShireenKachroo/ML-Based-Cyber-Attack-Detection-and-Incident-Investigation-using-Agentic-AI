@@ -8,5 +8,3 @@ __pycache__/
 
 # Environment Variables & API Keys (Security ke liye)
 .env
-
-agent/
